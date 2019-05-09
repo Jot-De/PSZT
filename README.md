@@ -1,2 +1,2 @@
 # PSZT
-Genetic algorith for plane crew allocation
+Genetic algorithm for plane crew allocation
